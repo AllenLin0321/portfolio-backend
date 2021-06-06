@@ -51,6 +51,24 @@
           "localized": true
         }
       }
+    },
+    "stack": {
+      "type": "component",
+      "repeatable": true,
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "component": "description.stack-item"
+    },
+    "companyInfo": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "text"
     }
   }
 }
