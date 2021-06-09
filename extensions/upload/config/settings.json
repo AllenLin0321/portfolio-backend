@@ -1,0 +1,8 @@
+﻿{
+    "provider": "cloudinary",
+    "providerOptions": {
+      "cloud_name": "dnzelwdvd",
+      "api_key": "348146666112716",
+      "api_secret": "0v0miU2SYxTmL62jBCkB_f-rxRY"
+    }
+}
